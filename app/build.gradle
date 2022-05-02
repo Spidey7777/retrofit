@@ -94,15 +94,4 @@ dependencies {
 
     // RecyclerView
     implementation "androidx.recyclerview:recyclerview:$version_recyclerview"
-
-    implementation "com.squareup.moshi:moshi:$version_moshi"
-    implementation "com.squareup.moshi:moshi-kotlin:$version_moshi"
-
-    implementation "com.squareup.retrofit2:retrofit:$version_retrofit"
-    implementation "com.squareup.retrofit2:converter-moshi:$version_retrofit"
-
-    implementation "org.jetbrains.kotlin:kotlin-coroutines-core:$version_kotlin_coroutines"
-    implementation "org.jetbrains.kotlin:kotlin-coroutines-android:$version_kotlin_coroutines"
-
-    implementation "com.jakewharton.retrofit:retrofit2-kotlin-coroutines-adapter$version_retrofit_coroutines_adapter"
 }
